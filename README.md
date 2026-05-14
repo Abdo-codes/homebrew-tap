@@ -1,8 +1,6 @@
-# Homebrew Tap
+# Nightcap Homebrew Tap
 
-Homebrew casks for Abdo Codes apps.
-
-## Nightcap
+Homebrew cask for [Nightcap](https://github.com/Abdo-codes/Nightcap).
 
 Install Nightcap with:
 
@@ -17,7 +15,6 @@ brew tap Abdo-codes/tap
 brew install --cask nightcap
 ```
 
-Nightcap releases are published from
+Nightcap releases are signed, notarized, and published from
 [Abdo-codes/Nightcap](https://github.com/Abdo-codes/Nightcap). The release
-workflow updates `Casks/nightcap.rb` when a signed and notarized release is
-tagged.
+workflow updates `Casks/nightcap.rb` after each tagged release.
