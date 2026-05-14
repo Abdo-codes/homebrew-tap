@@ -1,6 +1,6 @@
 cask "nightcap" do
-  version "0.1.0"
-  sha256 "630587ff41fbb2f98ee55b9c8a6139a717218ce6eb7c41af3928941c8bbb420c"
+  version "1.0"
+  sha256 "8a36d5d7773290396d088305c0fdf87b06816b07b4fa38bf22973039cac9b6c3"
 
   url "https://github.com/Abdo-codes/Nightcap/releases/download/v#{version}/Nightcap-#{version}.zip"
   name "Nightcap"
